@@ -1,2 +1,10 @@
 # Titutlo
-esta es la documentacion de mi aplicacion mobil 
+paso 1
+primero avrios
+
+paso 2
+asdasdasda
+
+paso 3
+
+asdasdadasd
